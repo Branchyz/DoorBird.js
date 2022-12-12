@@ -1,0 +1,25 @@
+{
+  "name": "doorbird.js",
+  "version": "1.0.0",
+  "description": "JavaScript wrapper for the DoorBird LAN API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Branchyz/DoorBird.js.git"
+  },
+  "keywords": [
+    "doorbird"
+  ],
+  "author": "Branchyz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Branchyz/DoorBird.js/issues"
+  },
+  "homepage": "https://github.com/Branchyz/DoorBird.js#readme",
+  "dependencies": {
+    "axios": "^1.2.1"
+  }
+}
